@@ -1,0 +1,3 @@
+2015年10月14日 星期三 11时03分18秒 CST
+_mbsetupuser console Oct 13 22:04 Calvin console Oct 13 22:04 Calvin ttys000 Oct 14 10:00
+11:03 up 13 hrs, 3 users, load averages: 1.39 1.45 1.43

@@ -1,0 +1,2 @@
+Advanced Bash-ScriptingGuide_cn.pdf
+bash_cheat_sheet.pdf
